@@ -4683,8 +4683,7 @@
         "symbol-placement": "line",
         "text-field": "{name:latin}\n{name:nonlatin}",
         "text-font": [
-          "Roboto Regular",
-          "Noto Sans Regular"
+          "Roboto Regular"
         ],
         "text-max-width": 5,
         "text-size": 12,
@@ -4827,8 +4826,7 @@
         "text-anchor": "center",
         "text-field": "{name:latin} {name:nonlatin}",
         "text-font": [
-          "Roboto Regular",
-          "Noto Sans Regular"
+          "Roboto Regular"
         ],
         "text-offset": [
           0,
@@ -4875,8 +4873,7 @@
         "text-anchor": "center",
         "text-field": "{name:latin} {name:nonlatin}",
         "text-font": [
-          "Roboto Regular",
-          "Noto Sans Regular"
+          "Roboto Regular"
         ],
         "text-offset": [
           0,
@@ -5092,8 +5089,7 @@
       "layout": {
         "text-field": "{name:latin}\n{name:nonlatin}",
         "text-font": [
-          "Roboto Medium",
-          "Noto Sans Regular"
+          "Roboto Medium"
         ],
         "text-letter-spacing": 0.1,
         "text-max-width": 9,
@@ -5252,8 +5248,7 @@
       "layout": {
         "text-field": "{name:latin}\n{name:nonlatin}",
         "text-font": [
-          "Roboto Regular",
-          "Noto Sans Regular"
+          "Roboto Regular"
         ],
         "text-max-width": 8,
         "text-size": {
@@ -5320,8 +5315,7 @@
         },
         "text-field": "{name:latin}\n{name:nonlatin}",
         "text-font": [
-          "Roboto Regular",
-          "Noto Sans Regular"
+          "Roboto Regular"
         ],
         "text-max-width": 8,
         "text-offset": [
@@ -5405,8 +5399,7 @@
         },
         "text-field": "{name:latin}\n{name:nonlatin}",
         "text-font": [
-          "Roboto Medium",
-          "Noto Sans Regular"
+          "Roboto Medium"
         ],
         "text-max-width": 8,
         "text-offset": [
@@ -5480,8 +5473,7 @@
         },
         "text-field": "{name:latin}\n{name:nonlatin}",
         "text-font": [
-          "Roboto Medium",
-          "Noto Sans Regular"
+          "Roboto Medium"
         ],
         "text-max-width": 8,
         "text-offset": [
@@ -5528,8 +5520,7 @@
       "layout": {
         "text-field": "{name:latin}\n{name:nonlatin}",
         "text-font": [
-          "Roboto Medium",
-          "Noto Sans Regular"
+          "Roboto Medium"
         ],
         "text-size": {
           "stops": [
@@ -5806,8 +5797,7 @@
         "text-anchor": "left",
         "text-field": "{name}",
         "text-font": [
-          "Roboto Condensed Italic",
-          "Noto Sans Italic"
+          "Roboto Condensed Italic"
         ],
         "text-max-width": 9,
         "text-offset": [
