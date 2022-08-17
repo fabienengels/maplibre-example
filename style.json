@@ -5967,16 +5967,16 @@
   "sources": {
     "contours": {
       "type": "vector",
-      "url": "#maptiler-contours"
+      "url": "https://mbtiles.franceseisme.fr/services/contours"
     },
     "hillshades": {
       "tileSize": 256,
       "type": "raster",
-      "url": "#maptiler-hillshades"
+      "url": "https://mbtiles.franceseisme.fr/services/hillshade"
     },
     "openmaptiles": {
       "type": "vector",
-      "url": "#maptiler-osm"
+      "url": "https://mbtiles.franceseisme.fr/services/osm"
     }
   },
   "sprite": "#",
