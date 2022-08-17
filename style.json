@@ -5246,7 +5246,7 @@
       ],
       "id": "place_village",
       "layout": {
-        "text-field": "{name:fr}",
+        "text-field": "{name:latin}",
         "text-font": [
           "Roboto Regular"
         ],
