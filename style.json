@@ -138,29 +138,6 @@
         "all",
         [
           "==",
-          "class",
-          "snow"
-        ]
-      ],
-      "id": "globallandcover_ice",
-      "layout": {
-        "visibility": "visible"
-      },
-      "maxzoom": 9,
-      "minzoom": 0,
-      "paint": {
-        "fill-color": "rgba(255, 255, 255, 1)",
-        "fill-opacity": 1
-      },
-      "source": "openmaptiles",
-      "source-layer": "globallandcover",
-      "type": "fill"
-    },
-    {
-      "filter": [
-        "all",
-        [
-          "==",
           "$type",
           "Polygon"
         ],
