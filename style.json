@@ -139,40 +139,6 @@
         [
           "==",
           "class",
-          "grass"
-        ]
-      ],
-      "id": "globallandcover_grass",
-      "layout": {
-        "visibility": "visible"
-      },
-      "maxzoom": 9,
-      "minzoom": 0,
-      "paint": {
-        "fill-color": "rgba(222, 226, 191, 1)",
-        "fill-opacity": {
-          "stops": [
-            [
-              8,
-              0.6
-            ],
-            [
-              9,
-              0.2
-            ]
-          ]
-        }
-      },
-      "source": "openmaptiles",
-      "source-layer": "globallandcover",
-      "type": "fill"
-    },
-    {
-      "filter": [
-        "all",
-        [
-          "==",
-          "class",
           "scrub"
         ]
       ],
