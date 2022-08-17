@@ -4,7 +4,7 @@
     0,
     0
   ],
-  "glyphs": "#",
+  "glyphs": "https://static.franceseisme.fr/fonts/{fontstack}/{range}.pbf",
   "id": "topo",
   "layers": [
     {
