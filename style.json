@@ -139,29 +139,6 @@
         [
           "==",
           "class",
-          "forest"
-        ]
-      ],
-      "id": "globallandcover_forest",
-      "layout": {
-        "visibility": "visible"
-      },
-      "maxzoom": 9,
-      "minzoom": 0,
-      "paint": {
-        "fill-color": "rgba(191, 202, 155, 1)",
-        "fill-opacity": 1
-      },
-      "source": "openmaptiles",
-      "source-layer": "globallandcover",
-      "type": "fill"
-    },
-    {
-      "filter": [
-        "all",
-        [
-          "==",
-          "class",
           "snow"
         ]
       ],
