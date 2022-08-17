@@ -4824,7 +4824,7 @@
       "layout": {
         "symbol-placement": "line",
         "text-anchor": "center",
-        "text-field": "{name:fr}",
+        "text-field": "{name:latin}",
         "text-font": [
           "Roboto Regular"
         ],
@@ -4871,7 +4871,7 @@
       "layout": {
         "symbol-placement": "line",
         "text-anchor": "center",
-        "text-field": "{name:fr}",
+        "text-field": "{name:latin}",
         "text-font": [
           "Roboto Regular"
         ],
