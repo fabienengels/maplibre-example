@@ -139,29 +139,6 @@
         [
           "==",
           "class",
-          "scrub"
-        ]
-      ],
-      "id": "globallandcover_scrub",
-      "layout": {
-        "visibility": "visible"
-      },
-      "maxzoom": 9,
-      "minzoom": 0,
-      "paint": {
-        "fill-color": "rgba(202, 214, 166, 1)",
-        "fill-opacity": 1
-      },
-      "source": "openmaptiles",
-      "source-layer": "globallandcover",
-      "type": "fill"
-    },
-    {
-      "filter": [
-        "all",
-        [
-          "==",
-          "class",
           "tree"
         ]
       ],
