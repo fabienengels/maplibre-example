@@ -1,0 +1,13 @@
+http://localhost:3000 {
+	file_server browse
+
+	reverse_proxy /services/* {
+		to https://mbtiles.franceseisme.fr
+		header_up Host {upstream_hostport}
+	}
+
+	reverse_proxy /fonts/* {
+		to https://static.franceseisme.fr
+		header_up Host {upstream_hostport}
+	}
+}

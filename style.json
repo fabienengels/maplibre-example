@@ -4,7 +4,7 @@
     0,
     0
   ],
-  "glyphs": "https://static.franceseisme.fr/fonts/{fontstack}/{range}.pbf",
+  "glyphs": "http://localhost:3000/fonts/{fontstack}/{range}.pbf",
   "id": "topo",
   "layers": [
     {
@@ -5831,16 +5831,16 @@
   "sources": {
     "contours": {
       "type": "vector",
-      "url": "https://mbtiles.franceseisme.fr/services/contours"
+      "url": "http://localhost:3000/services/contours"
     },
     "hillshades": {
       "tileSize": 256,
       "type": "raster",
-      "url": "https://mbtiles.franceseisme.fr/services/hillshade"
+      "url": "http://localhost:3000/services/hillshade"
     },
     "openmaptiles": {
       "type": "vector",
-      "url": "https://mbtiles.franceseisme.fr/services/osm"
+      "url": "http://localhost:3000/services/osm"
     }
   },
   "version": 8,
