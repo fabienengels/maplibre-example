@@ -1,3 +1,4 @@
+![Screenshot of the style rendered](/example.webp?raw=true)
 # Map Libre Example
 
 ## Introduction
